@@ -9,7 +9,7 @@ import 'package:ncov_2019/widget/card/rumor_card.dart';
 import 'package:ncov_2019/widget/item/entries.dart';
 import 'package:ncov_2019/widget/item/statics.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';
-
+//辟谣
 class RumorPage extends StatefulWidget {
   @override
   _RumorPageState createState() => _RumorPageState();

@@ -10,7 +10,7 @@ import 'package:ncov_2019/widget/flutter/my_expansion_tile.dart';
 import 'package:ncov_2019/widget/item/statics.dart';
 import 'package:ncov_2019/widget/view/title_view.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';
-
+//防护合辑
 class ProtectPage extends StatefulWidget {
   @override
   _ProtectPageState createState() => _ProtectPageState();

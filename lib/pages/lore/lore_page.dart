@@ -6,6 +6,8 @@ import 'package:ncov_2019/commom/commom.dart';
 import 'package:ncov_2019/widget/card/lore_card.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';
 
+///疾病知识
+///
 class LorePage extends StatefulWidget {
   @override
   _LorePageState createState() => _LorePageState();
